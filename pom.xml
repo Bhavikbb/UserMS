@@ -15,6 +15,9 @@
 	<description>User microservice</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>Bhavikbb_UserMS</sonar.projectKey>
+  <sonar.organization>bhavik</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
